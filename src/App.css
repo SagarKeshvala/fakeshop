@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.product-image {
+  height: 250px !important;
+  object-fit: fill;
+}
